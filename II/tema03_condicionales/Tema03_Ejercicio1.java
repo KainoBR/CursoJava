@@ -4,7 +4,7 @@ public class Tema03_Ejercicio1 {
 	/**
 	 * Ejercicio 1: Leer un número entero y calcule si es par o impar.
 	 */
-	public static boolean Ejercicio1(int n) {
+	public static boolean esPar (int n) {
 		// HACER ALUMNO //
 		
 		return false;
@@ -16,7 +16,7 @@ public class Tema03_Ejercicio1 {
 	
 	public static void main(String ...strings) {
 		
-		Tema03_Evaluador.evaluaTema03_Ejercicio1();
+		Tema03_Evaluador.evaluaTema03_Ejercicios(1);
 		
 		
 	}
