@@ -97,7 +97,7 @@ public class Tema01_Evaluador {
 	 * A - (B / A) 	>> guardar el resultado en res2
 	 * 
 	 */	
-	protected static void evaluaTema2_Ejercicio4(int res1, int res2) {
+	protected static void evaluaTema1_Ejercicio4(int res1, int res2) {
 		String test="";
 		
 		test += "El valor de 'A * B + A' es " + res1;

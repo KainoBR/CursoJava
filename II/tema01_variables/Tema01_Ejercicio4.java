@@ -14,7 +14,7 @@ public class Tema01_Ejercicio4 {
 	 * 
 	 * Antes de darle al ejecutar: ¿Qué debe dar cada operación? 
 	 */	
-	public static void main(String... arg) {
+	public static void main(String [] arg) {
 		
 		// HACER ALUMNO //
 		
@@ -23,7 +23,7 @@ public class Tema01_Ejercicio4 {
 			
 		// FIN HACER ALUMNO //
 		
-		Tema01_Evaluador.evaluaTema2_Ejercicio4(res1,res2);
+		Tema01_Evaluador.evaluaTema1_Ejercicio4(res1,res2);
 		
 
 		
