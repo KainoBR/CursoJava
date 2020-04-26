@@ -15,6 +15,7 @@ public class Tema07_Ejercicio1 {
 	 * 
 	 * @return la 1º posicion del carcater 'c' a partir de n si lo encuentra. Si no, -1.
 	 * 
+	 * Reto: no utilizar el método indexOf()
 	 */
 	public static int Indice (String s, char c, int n){
 		
