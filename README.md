@@ -6,5 +6,8 @@ durante los cursos 2016-2017, 2017-2018, 2018-2019 certificados por la Direcció
 
 [proceso! >> iré subiendo los ejercicios conforme vaya revisando, corrigiendo y montando]
 
+29-04-2020: actualización de código. Se ha incluido el tema 03 con un evaluador que realiza pruebas aletarias. 
+
+
 
 
