@@ -1,10 +1,12 @@
 package tema03_condicionales;
-//CONDICIONALES IF, ELSE ELIF SWITCH && ||
+
 public class Tema03_Ejercicio1 {
 	/**
-	 * Ejercicio 1: Leer un número entero y calcule si es par o impar.
+	 * Ejercicio 1: Desarrollar el método "esPar" que,
+	 * dado un número entero (int) recibido por parámetro, 
+	 * devuelve true si es par, false en caso contrario
 	 */
-	public static boolean Ejercicio1(int n) {
+	public static boolean esPar (int n) {
 		// HACER ALUMNO //
 		
 		return false;
@@ -16,11 +18,9 @@ public class Tema03_Ejercicio1 {
 	
 	public static void main(String ...strings) {
 		
-		Tema03_Evaluador.evaluaTema03_Ejercicio1();
+		Tema03_Evaluador.iniciarPruebas(" es Par ");
+		Tema03_Evaluador.evaluaTema03_Ejercicios(1);
 		
 		
 	}
-	
-	
-
 }
