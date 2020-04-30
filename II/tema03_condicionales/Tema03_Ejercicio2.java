@@ -24,7 +24,8 @@ public class Tema03_Ejercicio2 {
 	}
 	public static void main(String[] args) {
 		
-		Tema03_Evaluador.iniciarPruebas(" esMúltiplo ");		
+		
+		Tema03_Evaluador.cabecera(" esMúltiplo ");		
 		Tema03_Evaluador.evaluaTema03_Ejercicios(2);
 
 	}

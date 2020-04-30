@@ -24,7 +24,8 @@ public class Tema03_Ejercicio3 {
 	
 	public static void main(String[] args) {
 		
-		Tema03_Evaluador.iniciarPruebas(" esDiviblePor 2 y 5 ");		
+		
+		Tema03_Evaluador.cabecera(" esDiviblePor 2 y 5\t");		
 		Tema03_Evaluador.evaluaTema03_Ejercicios(3);
 	}
 

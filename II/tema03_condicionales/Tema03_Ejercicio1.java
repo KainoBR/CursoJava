@@ -16,9 +16,9 @@ public class Tema03_Ejercicio1 {
 		
 	}
 	
-	public static void main(String ...strings) {
+	public static void main(String ...strings) {		
 		
-		Tema03_Evaluador.iniciarPruebas(" es Par ");
+		Tema03_Evaluador.cabecera(" esPar?");
 		Tema03_Evaluador.evaluaTema03_Ejercicios(1);
 		
 		
