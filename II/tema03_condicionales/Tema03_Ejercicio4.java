@@ -9,8 +9,8 @@ public class Tema03_Ejercicio4 {
 	 * false en caso contrario
 	 * 
 	 * Ejemplo: 
-	 * 			a = 5, b = 2, c = 3 >> true (a es mayor que b y c)
-	 * 			a = 3, b = 5, c = 0 >> false (a es mayor que c pero menor que b)
+	 * 			a = 5, b = 2, c = 3 >> true  (a y c son mayorres que b)
+	 * 			a = 8, b = 5, c = 0 >> false (a es mayor que b pero c es menor que b)
 	 */
 	public static boolean esMayor(int a, int b, int c) {
 		
