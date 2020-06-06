@@ -6,7 +6,7 @@ public class Tema01_Ejercicio4 {
 	 * Ejercicio 4: declarar 2 variables enteras (int) A, B de tal forma que: 
 	 *  A = 5, B = 3
 	 * 
-	 * Declarar otras 2 variables enteras (int) llamadas res1 y res 2
+	 * Declarar otras 2 variables enteras (int) llamadas res1 y res2
 	 * realizar las siguientes operaciones 
 	 * 
 	 * A * B + A 	>> guardar el resultado en res1  
