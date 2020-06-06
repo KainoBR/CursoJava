@@ -1,7 +1,7 @@
 package tema02_metodos;
 
 //METODOS (parametros y return)y CLASES MATH, STRING, SCANNER, SYSTEM
-public class Tema2_Ejercicio2 {
+public class Tema02_Ejercicio2 {
 	/**
 	 * @uthor Miki
 	 * Ejercicio 2: declarar 2 variables enteras (int) llamadas base y exponente

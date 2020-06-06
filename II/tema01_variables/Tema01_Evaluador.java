@@ -105,7 +105,7 @@ public class Tema01_Evaluador {
 			test += " y debería ser 18";
 		}
 				
-		test += "El valor de 'A - (B / A)' es " + res2;
+		test += "\nEl valor de 'A - (B / A)' es " + res2;
 		if(res2!= 4) {
 			test += " y debería ser 4";
 		}
